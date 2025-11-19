@@ -1,6 +1,6 @@
 # 🛍️ Customer Shopping Behavior Analysis
 
-## 📄 Overview
+## 📄 Overview 
 
 This project analyzes customer shopping behavior using transactional data from **3,900 purchases** across multiple product categories.  
 The goal is to uncover insights into **spending patterns**, **customer segmentation**, **product preferences**, and **subscription trends** to support strategic business decisions.
